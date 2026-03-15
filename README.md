@@ -1,6 +1,9 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-![Gif Programando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVweDh4MXpibHFlNmVmODc4Y2piMno4cGtsdmE0NTl1b3pseXdmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPcvhM28ER9XW/giphy.gif)
+<p align= "center">
+    <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVweDh4MXpibHFlNmVmODc4Y2piMno4cGtsdmE0NTl1b3pseXdmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPcvhM28ER9XW/giphy.gif" width="100%">
+</p>
+
 -----------------
 
 🐧 Olá, me chamo Nathã Rogério Rosa!
