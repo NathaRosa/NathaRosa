@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
+
+![Gif Programando](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F777504323162275413%2F&ved=0CBUQjRxqFwoTCICbuZvboZMDFQAAAAAdAAAAABB4&opi=89978449)
 
 <!--
 **NathaRosa/NathaRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
