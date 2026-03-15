@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-![Gif Programando](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F777504323162275413%2F&ved=0CBUQjRxqFwoTCICbuZvboZMDFQAAAAAdAAAAABB4&opi=89978449)
+![Gif Programando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVweDh4MXpibHFlNmVmODc4Y2piMno4cGtsdmE0NTl1b3pseXdmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPcvhM28ER9XW/giphy.gif)
 
 <!--
 **NathaRosa/NathaRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
