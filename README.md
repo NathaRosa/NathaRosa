@@ -29,6 +29,8 @@
 -------
 
 ![Nathã Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=NathaRosa&show_icons=true&theme=dark)
+
+![Nathã Rosa GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaRosa&layout=compact&langs_count=7&theme=dark)
 <!--
 **NathaRosa/NathaRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
